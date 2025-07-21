@@ -41,8 +41,7 @@ The model provides a baseline for salary prediction and serves as a tool for job
 ## ✅ Contributions
 Pull requests and discussions are welcome—especially around expanding the dataset, refining features, or incorporating advanced modeling techniques (e.g., regularization or ensemble methods).
 
-## 📬 Contact
-For questions, feedback, or collaboration ideas, feel free to reach out via LinkedIn or GitHub!
+Feel free to modify the code or add more advanced techniques
 
 ---
 
